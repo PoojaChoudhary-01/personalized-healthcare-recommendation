@@ -1,0 +1,8 @@
+name = str("pooja choudhary")
+age = int(20)
+height = float(5.2)
+student = bool(True)
+print("name of student is :",name)
+print("the age of student is :",age)
+print("the height of student is :",height)
+print("is this student ? :",student)
