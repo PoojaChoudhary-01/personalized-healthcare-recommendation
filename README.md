@@ -103,8 +103,3 @@ Click Here to Visit the Website 👉 **[Tap to Diagnose](https://your-streamlit-
 * Export downloadable health reports
 * Build a patient login/dashboard system
 
----
-
-## 📬 Contact
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or email me at **[your-email@example.com](mailto:your-email@example.com)**
