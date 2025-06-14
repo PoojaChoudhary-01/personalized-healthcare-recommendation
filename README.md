@@ -68,35 +68,6 @@ Click Here to Visit the Website 👉 **[Tap to Diagnose](https://your-streamlit-
 * Visualize column distributions
 * Enter your details to get a risk-level recommendation
 
----
-
-## 🏑️ How to Run the App Locally
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/PoojaChoudhary-01/personalized-healthcare-recommendation.git
-   cd personalized-healthcare-recommendation
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Streamlit app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
----
-
-## 📸 Screenshot
-
-> *(You can add a screenshot of your Streamlit app here)*
-
----
-
 ## ✨ Future Improvements
 
 * Add ML model-based recommendation engine
