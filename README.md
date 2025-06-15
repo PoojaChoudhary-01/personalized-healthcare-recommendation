@@ -58,6 +58,7 @@ These fields are used to analyze health risks and generate a basic recommendatio
 ## 💽 Website Overview
 
 Click Here to Visit the Website 👉 **[Tap to Diagnose](https://poojachoudhary-01-personalized-healthcare-recommenda-app-cv7nkc.streamlit.app/)**
+**Demo PDF**: [View App Screenshots (PDF)](personalized_healthcare_app_demo.pdf)
 
 ---
 
