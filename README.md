@@ -1,5 +1,4 @@
 Personalized Healthcare Recommendation App 🧪
-
 This is a web application built using Streamlit that allows users to upload healthcare data, explore it, and receive personalized health recommendations based on individual details like age, gender, medical condition, and billing amount.
 
 ---
